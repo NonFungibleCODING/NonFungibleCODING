@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NonFungibleCODING
 - 👀 I’m interested in ... Learn
-- 🌱 I’m currently learning ... Total Rookie
+- 🌱 I’m currently learning ... Completly Rookie
 - 💞️ I’m looking to collaborate on ... Everything that helps me to learn faster
 - 📫 How to reach me ... Yuo can tag me in a repositiry and tell me how I can help!!
 
