@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learn
 - 🌱 I’m currently learning ... Completly Rookie
 - 💞️ I’m looking to collaborate on ... Everything that helps me to learn faster
-- 📫 How to reach me ... Yuo can tag me in a repositiry and tell me how I can help!!
+- 📫 How to reach me ... You can tag me in this repositiry and tell me how I can help!!
 
 <!---
 NonFungibleCODING/NonFungibleCODING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
